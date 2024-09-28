@@ -19,7 +19,7 @@ The main objective is to provide a powerful tool for forensic investigations by 
 This project was a significant learning experience for the team, enhancing our understanding of AI-driven forensic analysis. We developed key insights into super-resolution techniques and 3D facial reconstruction, which we hope will prove useful in real-world forensic scenarios.
 
 ## Usage
-For detailed steps on setting up and running this project, refer to the installation and setup guide in the provided Jupyter notebook (`installation.ipynb`).
+For detailed steps on setting up and running this project, refer to the installation and setup guide in the provided Jupyter notebook (`Facial_Recognition_and_Reconstruction.ipynb`).
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
