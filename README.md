@@ -10,6 +10,8 @@ This project addresses a critical challenge in security and forensic investigati
 - **Bounding Box Handling**: Implements robust detection of facial regions, even in difficult-to-analyze frames.
 - **NextFace & 3D Face Reconstruction**: Uses 3D modeling techniques to create detailed facial reconstructions from low-quality images.
 
+![3D Face Reconstruction Example](sample1.png)
+![3D Face Reconstruction Example](sample2.png)
 ## Project Goal
 The main objective is to provide a powerful tool for forensic investigations by reconstructing human faces from low-quality footage, thus enabling faster and more accurate identification of suspects and individuals.
 
